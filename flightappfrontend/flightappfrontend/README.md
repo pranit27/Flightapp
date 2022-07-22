@@ -1,4 +1,4 @@
-# praneet
+# pranit
 
 A new Flutter project.
 
